@@ -29,3 +29,7 @@ target/
 
 # Ignora archivo .DS_Store en Mac
 .DS_Store
+
+# Ignora Intellij IDEA
+.idea
+*.iml
